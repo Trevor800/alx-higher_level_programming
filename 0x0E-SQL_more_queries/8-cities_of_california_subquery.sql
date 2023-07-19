@@ -1,6 +1,3 @@
--- Use the database 'hbtn_0d_usa'
-USE hbtn_0d_usa;
-
 -- List all cities of California
 SELECT cities.id, cities.name
 FROM cities
